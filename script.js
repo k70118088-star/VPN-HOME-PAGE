@@ -52,7 +52,7 @@ $(document).ready(function () {
             {
                 breakpoint: 768,
                 settings: {
-                    dots: false
+                    dots: true
                 }
             }
         ]
